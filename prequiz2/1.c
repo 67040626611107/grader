@@ -42,7 +42,7 @@ int ArrayA(int a[100],int b[100],int c[100],int len) {
     return (1);
 }
 void printArray(int a[100],int len) {
-    i = 0;
+    i =0;
     while (i < len) {
         printf("%d ",a[i]);
         i++;
